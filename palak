@@ -66,8 +66,7 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HI
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=RED
 
 #EXTINF:-1, COLORS  HD
-http://185.229.191.158:25461/live/DM_Snappyarr/adfsgbhgsvdfv/225657.ts?token=SBNZAhZdQQ1AUVlVVAUDBwJSVwJcUV1UAANRB1QCAFMKCFdQUAVSAFERTUNEEEEHAltsDQBDAldXVwMHUBsXR0BUQzwMUUENQAtYUwZVEU5BQloJAUMCVFNTBgdTBgwHBh0TEwxRQQ0MRg0NG0ZWGhdTQQoFDWcBABRcUQYVD1xGXV1PR1oNaAZWDABZABFYQQcRSEYISxVHWFtHD1sZEFFYRREEQQYVWF0UDVtIEQEMQ10QFhgaX0crexBPFVBKR1RfEAxaDRVYERUSFUgRCxBpQQEXFUoABA9QQEENFwIRHRMOBE08VA1dDwRUEFoNDUURXkZRGklHD1pcCkNaQGxBWAdHDw1CDl8c
-
+http://185.246.209.207/HINDI_COLORS_HD_INDIA/index.m3u8
 
 #EXTINF:-1, SAB TV FULL HD Liv
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?HjFreeTV=SABHD
@@ -112,15 +111,13 @@ http://cv.khushitv.xyz/channels.php?c=andtvhd&e=.m3u8
 
 
 #EXTINF:-1,UTV ACTION
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=RED
+http://185.246.209.207/HINDI_UTV_ACTION/index.m3u8
 #EXTINF:-1,UTV HD
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=RED
-
+http://185.246.209.207/HINDI_UTV/index.m3u8
 #EXTINF:-1,UTV MOVIES
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=RED
 #EXTINF:-1,MINIPLEX 
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=RED
-
+http://185.246.209.207/HINDI_MINIPLEX_HD/index.m3u8
 
 
 
@@ -138,8 +135,7 @@ http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
 
 
 #EXTINF:-1,CINEPLEX HD B
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=RED
-
+http://185.246.209.207/HINDI_CINEPLEX_HD/index.m3u8
 
 
 
@@ -212,8 +208,7 @@ http://rv.therevenge.co/live/11223344/11223344/83710.m3u8
 #EXTINF:-1, STAR GOLDSELECT HD B
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RED
 #EXTINF:-1, STAR GOLDSELECT 
-http://185.229.191.158:25461/live/DM_Snappyarr/adfsgbhgsvdfv/225653.ts?token=SBNZAhZdQQ1AUVlVVAUDBwJSVwJcUV1UAANRB1QCAFMKCFdQUAVSAFERTUNEEEEHAltsDQBDAldXVwMHUBsXR0BUQzwMUUENQAtYUwZVEU5BQloJAUMCVFNTBgdTBgwHBh0TEwxRQQ0MRg0NG0ZWGhdTQQoFDWcBABRcUQYVD1xGXV1PR1oNaAZWDABZABFYQQcRSEYISxVHWFtHD1sZEFFYRREEQQYVWF0UDVtIEQEMQ10QFhgaX0crexBPFVBKR1RfEAxaDRVYERUSFUgRCxBpQQEXFUoABA9QQEENFwIRHRMOBE08VA1dDwRUEFoNDUURXkZRGklHD1pcCkNaQGxBWAdHDw1CDl8c
-
+http://185.246.209.207/HINDI_STAR_GOLD_SELECT_HD/index.m3u8
 
 
 #EXTINF:-1, GEM BOLLYWOOD
@@ -585,7 +580,12 @@ https://jiocdn.fun/redbXxxX.php?id=3076&e=.m3u8
 https://jiocdn.fun/stream.php?stream=http://zer0live.hjkm.info:11991/juno/starbharat/l_90316717_73926200_2352.ts&nimblesessionid=1223146&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIxIDE6NDk6MzcgUE0maGFzaF92YWx1ZT1GazZzUCtHRzhlbUo5bDN1N2N1RWl3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,star gold 2
 https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1613934116&md5=g77HN27kFCbo28W5dgzqgw&user=9335626110e9411cb7f7bf19657c21a7
-
+#EXTINF:-1,sony test
+https://mhdtvworld.live/delta/flix/max.php?id=42350&e=.m3u8
+#EXTINF:-1,bbo test
+https://mhdtvworld.live/7star/Yuptvv.php?id=22429656&e=.m3u8
+#EXTINF:-1,bbo classic
+https://mhdtvworld.live/7star/Yuptvv.php?id=63887852&e=.m3u8
 
 
 
