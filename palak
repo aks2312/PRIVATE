@@ -3,10 +3,9 @@
 #EXTINF:-1,35MM
 https://m-c050-j2apps.s.llnwi.net:443/hls/8006.35MM.in_480p/index.m3u8
 #EXTINF:-1,STAR SP-1 HINDI
-http://A2153683141.wo2.co/o.php?6949003927915110_164589908716158286521294296370_3103304395_==QMgMFVS9EUTBiUBR1U
-#EXTINF:-1,STAR 
-
-http://star7.indtv.me/server1/star7/48105.m3u8
+https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_0/index2.m3u8
+#EXTINF:-1,STAR SP-1 HINDI
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==QMgMFVS9EUTBiUBR1U
 #EXTINF:-1,DD-1 HD
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-250&oauth=c3Q9MTYwNzc2NDcyNX5leHA9MTYwNzc2NTcyNX5hY2w9LypobWFjPTNjNTc0NzdiMmFhODRjYzFiYTk4OTU1NWZmMjdmNjE5NmNkNTgxMTcyMzI2ZmRlMmY5N2VjN2FmMTdmNzkzNmE=
 
@@ -20,7 +19,7 @@ https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8?H
 https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8?HjFreeTV=TEN2HD
 #EXTINF:-1,SONY TEN2 HD
 https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8?HjFreeTV=TEN3HD
-#EXTINF:-1, SONY SIX Full HD Liv
+#EXTINF:-1, SONY SIX 
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?HjFreeTV=SIXHD
 
 
@@ -40,52 +39,27 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:-1, ZEE TV HD
 http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
-
-#EXTINF:-1, STAR PLUS SLOW
-http://185.229.191.158:25461/live/DM_Snappyarr/adfsgbhgsvdfv/225656.ts?token=SBNZAhZdQQ1AUVlVVAUDBwJSVwJcUV1UAANRB1QCAFMKCFdQUAVSAFERTUNEEEEHAltsDQBDAldXVwMHUBsXR0BUQzwMUUENQAtYUwZVEU5BQloJAUMCVFNTBgdTBgwHBh0TEwxRQQ0MRg0NG0ZWGhdTQQoFDWcBABRcUQYVD1xGXV1PR1oNaAZWDABZABFYQQcRSEYISxVHWFtHD1sZEFFYRREEQQYVWF0UDVtIEQEMQ10QFhgaX0crexBPFVBKR1RfEAxaDRVYERUSFUgRCxBpQQEXFUoABA9QQEENFwIRHRMOBE08VA1dDwRUEFoNDUURXkZRGklHD1pcCkNaQGxBWAdHDw1CDl8c
-
-#EXTINF:-1, STAR PLUS FAST
-http://rv.therevenge.co:80/9372941246/5108585674/83709
-#EXTINF:-1, STAR PLUS B
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RED
+#EXTINF:-1, STAR UTSAV
+https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8
 
 #EXTINF:-1, RASI HINDI
 http://singamcloud.in/rasinetwork/rasihindi/chunklist_w806606.m3u8
 
 
 
-#EXTINF:-1, STAR BHARAT HD TS
-http://185.229.191.158:25461/live/DM_Snappyarr/adfsgbhgsvdfv/225456.ts?token=SBNZAhZdQQ1AUVlVVAUDBwJSVwJcUV1UAANRB1QCAFMKCFdQUAVSAFERTUNEEEEHAltsDQBDAldXVwMHUBsXR0BUQzwMUUENQAtYUwZVEU5BQloJAUMCVFNTBgdTBgwHBh0TEwxRQQ0MRg0NG0ZWGhdTQQoFDWcBABRcUQYVD1xGXV1PR1oNaAZWDABZABFYQQcRSEYISxVHWFtHD1sZEFFYRREEQQYVWF0UDVtIEQEMQ10QFhgaX0crexBPFVBKR1RfEAxaDRVYERUSFUgRCxBpQQEXFUoABA9QQEENFwIRHRMOBE08VA1dDwRUEFoNDUURXkZRGklHD1pcCkNaQGxBWAdHDw1CDl8c
-#EXTINF:-1, STAR BHARAT HD A
-http://rv.therevenge.co:80/9372941246/5108585674/83712
-
-#EXTINF:-1, STAR BHARAT HD B  
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=RED
 
 
 
-#EXTINF:-1, COLORS HD B
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=RED
 
-#EXTINF:-1, COLORS  HD
-http://185.246.209.207/HINDI_COLORS_HD_INDIA/index.m3u8
+
+
+
 
 #EXTINF:-1, SAB TV FULL HD Liv
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?HjFreeTV=SABHD
-#EXTINF:-1, SAB TV FULL HD TS
-http://185.229.191.158:25461/live/DM_Snappyarr/adfsgbhgsvdfv/225650.ts?token=SBNZAhZdQQ1AUVlVVAUDBwJSVwJcUV1UAANRB1QCAFMKCFdQUAVSAFERTUNEEEEHAltsDQBDAldXVwMHUBsXR0BUQzwMUUENQAtYUwZVEU5BQloJAUMCVFNTBgdTBgwHBh0TEwxRQQ0MRg0NG0ZWGhdTQQoFDWcBABRcUQYVD1xGXV1PR1oNaAZWDABZABFYQQcRSEYISxVHWFtHD1sZEFFYRREEQQYVWF0UDVtIEQEMQ10QFhgaX0crexBPFVBKR1RfEAxaDRVYERUSFUgRCxBpQQEXFUoABA9QQEENFwIRHRMOBE08VA1dDwRUEFoNDUURXkZRGklHD1pcCkNaQGxBWAdHDw1CDl8c
-
-
 
 #EXTINF:-1, SONY FULL HD Liv
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?HjFreeTV=SONYSET
-#EXTINF:-1, SONY 
-http://sky4.ddns.net:8000/live/zohaib/luckyg/1406.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1, SONY PAL Liv
@@ -112,14 +86,7 @@ http://cv.khushitv.xyz/channels.php?c=andtvhd&e=.m3u8
 
 
 
-#EXTINF:-1,UTV ACTION
-http://185.246.209.207/HINDI_UTV_ACTION/index.m3u8
-#EXTINF:-1,UTV HD
-http://185.246.209.207/HINDI_UTV/index.m3u8
-#EXTINF:-1,UTV MOVIES
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=RED
-#EXTINF:-1,MINIPLEX 
-http://185.246.209.207/HINDI_MINIPLEX_HD/index.m3u8
+
 
 
 
@@ -136,8 +103,7 @@ http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
 http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
 
 
-#EXTINF:-1,CINEPLEX HD B
-http://185.246.209.207/HINDI_CINEPLEX_HD/index.m3u8
+
 
 
 
@@ -167,6 +133,12 @@ https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/playlist.m3u8
 
 #EXTINF:-1,ZEE CINEMA HD
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
+#EXTINF:-1,ZEE CINEMA 
+https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
+#EXTINF:-1,OSCAR MOVIES
+https://ditnpgcgej9mc.cloudfront.net/OSCAR_MOVIES.m3u8
+#EXTINF:-1,OPERA CLASSIC
+https://d3cg98dbjyu3j4.cloudfront.net/MOCLASSIC.m3u8
 
 
 
@@ -179,8 +151,8 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?H
 
 
 
-
-
+#EXTINF:-1, STAR GOLD
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_kx2bHBichR3U
 
 #EXTINF:-1, STAR GOLD
 https://dfe4lh87csqpu.cloudfront.net/ST_G.m3u8
@@ -192,8 +164,7 @@ https://pubads.g.doubleclick.net/ssai/event/6Kd8Myl8RlCnZwTtwHkjwQ/master.m3u8?H
 
 
 
-#EXTINF:-1, STAR GOLD HD 
-http://185.229.191.158:25461/live/DM_Snappyarr/adfsgbhgsvdfv/225457.ts?token=SBNZAhZdQQ1AUVlVVAUDBwJSVwJcUV1UAANRB1QCAFMKCFdQUAVSAFERTUNEEEEHAltsDQBDAldXVwMHUBsXR0BUQzwMUUENQAtYUwZVEU5BQloJAUMCVFNTBgdTBgwHBh0TEwxRQQ0MRg0NG0ZWGhdTQQoFDWcBABRcUQYVD1xGXV1PR1oNaAZWDABZABFYQQcRSEYISxVHWFtHD1sZEFFYRREEQQYVWF0UDVtIEQEMQ10QFhgaX0crexBPFVBKR1RfEAxaDRVYERUSFUgRCxBpQQEXFUoABA9QQEENFwIRHRMOBE08VA1dDwRUEFoNDUURXkZRGklHD1pcCkNaQGxBWAdHDw1CDl8c
+
 #EXTINF:-1, Rishtey DDFREE DISH
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1, SONY WAH
@@ -205,12 +176,7 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8?H
 
 
 
-#EXTINF:-1, STAR GOLDSELECT HD A
-http://rv.therevenge.co/live/11223344/11223344/83710.m3u8
-#EXTINF:-1, STAR GOLDSELECT HD B
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RED
-#EXTINF:-1, STAR GOLDSELECT 
-http://185.246.209.207/HINDI_STAR_GOLD_SELECT_HD/index.m3u8
+
 
 
 #EXTINF:-1, GEM BOLLYWOOD
@@ -276,13 +242,19 @@ https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
 #EXTINF:-1, Mahamovie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 
-
-
+#EXTINF:-1, SURYA CINEMA (MX)
+https://m-c06-j2apps.s.llnwi.net/hls/7080.SuryaCinema.in.m3u8
+#EXTINF:-1, SURYA CINEMA
+https://viacom-b.multitvsolution.com/viacomhls/suryacinema.m3u8
 
 #EXTINF:-1, ANJAN TV
 https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in_480p/index.m3u8
-
-
+#EXTINF:-1, B4U KADAK
+http://streamidvo.multitvsolution.in/idvo/moviehouse_540p/index.m3u8
+#EXTINF:-1, WOW CINEMA
+http://streamidvo.multitvsolution.in/idvo/wowcinema_540p/index.m3u8
+#EXTINF:-1, Manoranjan Tv
+http://streamidvo.multitvsolution.in/idvo/manoranjantv_540p/index.m3u8
 
 
 
@@ -330,6 +302,8 @@ https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3
 
 #EXTINF:-1,News18 Rajasthan
 https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8
+#EXTINF:-1,News18 Gujarati
+https://news18gujvoot.akamaized.net/i/n18gujarat_1@370955/index_5_av-p.m3u8
 #EXTINF:-1,Zee MP-CG
 http://cv.khushitv.xyz/channels.php?c=newsmpcg&e=.m3u8
 #EXTINF:-1, ABP NEWS
@@ -347,7 +321,8 @@ https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in_480p/index.m3u8
 https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_5_av-p.m3u8
 #EXTINF:-1, ABP ASMITA 
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
-
+#EXTINF:-1, ABP ASMITA (MX)
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7019.ABPAsmita.in.m3u8
 
 #EXTINF:-1,VTV live
 https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/chunklist_w1694613322.m3u8
@@ -432,6 +407,8 @@ https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-301&oauth=c3Q9MTYwNzc2NDcyNX5leHA9
 
 #EXTINF:-1,SHOWBOX
 https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in_480p/index.m3u8
+#EXTINF:-1,MO MUSIC
+https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
 
 
 #EXTINF:-1,9XM zee
@@ -477,7 +454,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1,Discovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
+http://streamidvo.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
 #EXTINF:-1,Cartoon Network
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
 
@@ -488,8 +465,10 @@ http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1,Discovery Hindi
+http://streamidvo.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1,Animal Planet Hindi
+http://streamidvo.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 
 
 
