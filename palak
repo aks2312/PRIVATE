@@ -38,7 +38,7 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 
 #EXTINF:-1, ZEE TV HD
-http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetvhd
 #EXTINF:-1, STAR UTSAV
 https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8
 
@@ -81,7 +81,7 @@ http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 
 
 #EXTINF:-1,&TV HD
-http://cv.khushitv.xyz/channels.php?c=andtvhd&e=.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvhd_0
 
 
 
@@ -100,8 +100,8 @@ http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
 
 
 #EXTINF:-1,&pictures HD 
-http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
 
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvpictureshd
 
 
 
@@ -116,7 +116,7 @@ http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
 
 
 #EXTINF:-1,Zee Action 
-http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeeaction
 
 #EXTINF:-1,Zee Classic
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-176&oauth=c3Q9MTYwNzc2NDcyNX5leHA9MTYwNzc2NTcyNX5hY2w9LypobWFjPTNjNTc0NzdiMmFhODRjYzFiYTk4OTU1NWZmMjdmNjE5NmNkNTgxMTcyMzI2ZmRlMmY5N2VjN2FmMTdmNzkzNmE=
@@ -124,7 +124,7 @@ https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-176&oauth=c3Q9MTYwNzc2NDcyNX5leHA9
 
 
 #EXTINF:-1,ZEE ANMOL CINEMA
-http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeeanmolcinema
 
 
 
@@ -284,14 +284,15 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/republicbharat/republicbharat.isml/r
 #EXTINF:-1,Republic Bharat-2
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1581100145~exp=1581103145~acl=/*~hmac=cac2baa47ca75f31f770cf160ceab80d71868569e1068731569968afbfcd624d
 #EXTINF:-1,Zee business 
-http://cv.khushitv.xyz/channels.php?c=zeebusiness&e=.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeebusiness
 
 #EXTINF:-1,Zee News 
-http://cv.khushitv.xyz/channels.php?c=zeenews&e=.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeenews
 #EXTINF:-1,Zee HINDUSTAN
-http://cv.khushitv.xyz/channels.php?c=hindustan&e=.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeehindustan
 #EXTINF:-1,Zee Rajasthan
-http://cv.khushitv.xyz/channels.php?c=rajasthan&e=.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeerajasthannews
+
 #EXTINF:-1,ABP GANGA
 https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in_480p/index.m3u8
 
@@ -425,16 +426,14 @@ https://livechannel.shemaroome.com/linearplayout/test-linear-channel/chunklist_1
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 
-#EXTINF:-1,MTV BEATS HD 
-http://rv.therevenge.co/11223344/11223344/83649
-#EXTINF:-1,MTV BEATS--
-https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/mtvbeats/playlist.m3u8
+
+
 #EXTINF:-1,MTV BEATS HD VOOT
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1, B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 #EXTINF:-1,ZING 
-http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zing
 #EXTINF:-1, E24
 https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
 #EXTINF:-1,ZOOM
@@ -447,7 +446,8 @@ http://cv.khushitv.xyz/channels.php?c=etc&e=.m3u8
 https://live.hungama.com/linear/dil-se/chunklist_b828000.m3u8
 #EXTINF:-1,Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-
+EXTINF:-1,Love music
+https://ilove.livebox.co.in/wowinhls/live.m3u8
 
 #EXTINF:-1,Sony YAY
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
