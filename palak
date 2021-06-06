@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://botallen.live/epg.xml.gz"
 
 #EXTINF:-1,35MM
 https://m-c050-j2apps.s.llnwi.net:443/hls/8006.35MM.in_480p/index.m3u8
@@ -38,7 +38,7 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 
 #EXTINF:-1, ZEE TV HD
-http://allutv.xyz/zee.php?q=0-9-zeetvhd
+http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 
 #EXTINF:-1, STAR UTSAV
 https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8
@@ -65,22 +65,23 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?H
 
 #EXTINF:-1, SONY PAL Liv
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8?HjFreeTV=PAL
+#EXTINF:-1,Big Ganga
 
-
+http://pockettv.xyz/api/zee.m3u8?c=bigganga
 
 
 #EXTINF:-1,Big magic 
 
-http://allutv.xyz/zee.php?q=0-9-bigmagic_1786965389
+http://cv.khushitv.xyz/channels.php?c=bigmagic&e=.m3u8
 
 #EXTINF:-1,ZEE ANMOL 
-http://allutv.xyz/zee.php?q=0-9-zeeanmol
+http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8
 
 
 
 #EXTINF:-1,&TV 
 
-http://allutv.xyz/zee.php?q=0-9-tvhd_0
+http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 
 #EXTINF:-1,&TV HD
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvhd_0
@@ -97,14 +98,14 @@ https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvhd_0
 http://allutv.xyz/zee.php?q=0-9-209
 
 #EXTINF:-1,&pictures 
-http://allutv.xyz/zee.php?q=0-9-pictures
 
+http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
 
 
 #EXTINF:-1,&pictures HD 
 
 
-http://allutv.xyz/zee.php?q=0-9-tvpictureshd
+http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
 
 
 
@@ -113,12 +114,12 @@ http://allutv.xyz/zee.php?q=0-9-tvpictureshd
 
 #EXTINF:-1,Zee Bollywood 
 
-http://allutv.xyz/zee.php?q=0-9-zeeclassic
+http://pockettv.xyz/api/zee.m3u8?c=classic
 
 
 
 #EXTINF:-1,Zee Action 
-http://allutv.xyz/zee.php?q=0-9-zeeaction
+http://pockettv.xyz/api/zee.m3u8?c=action
 
 #EXTINF:-1,Zee Classic
 http://allutv.xyz/zee.php?q=0-9-176
@@ -127,14 +128,15 @@ http://allutv.xyz/zee.php?q=0-9-176
 
 #EXTINF:-1,ZEE ANMOL CINEMA
 
-http://allutv.xyz/zee.php?q=0-9-zeeanmolcinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 
 
 #EXTINF:-1,ZEE cinema HD 
 https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/playlist.m3u8
-
+#EXTINF:-1,ZEE cinema 
+http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 #EXTINF:-1,ZEE CINEMA HD
-http://allutv.xyz/zee.php?q=0-9-zeecinemahd
+http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
 #EXTINF:-1,ZEE CINEMA 
 https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
 #EXTINF:-1,OSCAR MOVIES
@@ -169,11 +171,12 @@ https://pubads.g.doubleclick.net/ssai/event/6Kd8Myl8RlCnZwTtwHkjwQ/master.m3u8?H
 
 #EXTINF:-1, Rishtey DDFREE DISH
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+
 #EXTINF:-1, SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8?HjFreeTV=WAH
 
-
-
+#EXTINF:-1, SONY WAH low
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 
 
 
@@ -274,7 +277,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1,ABP NEWS HD
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1,Zee News 
-https://zmcl-live.akamaized.net/zeenewsclean_mbr/tracks-v1a1/mono.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
 #EXTINF:-1, TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF:-1,AAJTAK 
@@ -286,15 +289,14 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/republicbharat/republicbharat.isml/r
 #EXTINF:-1,Republic Bharat-2
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1581100145~exp=1581103145~acl=/*~hmac=cac2baa47ca75f31f770cf160ceab80d71868569e1068731569968afbfcd624d
 #EXTINF:-1,Zee business 
+http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
 
-http://allutv.xyz/zee.php?q=0-9-zeebusiness
-#EXTINF:-1,Zee News 
-http://allutv.xyz/zee.php?q=0-9-zeenews
+
 #EXTINF:-1,Zee HINDUSTAN
-http://allutv.xyz/zee.php?q=0-9-zeehindustan
+http://pockettv.xyz/api/zee.m3u8?c=hindustan
 #EXTINF:-1,Zee Rajasthan
+http://cv.khushitv.xyz/channels.php?c=zinguk&e=.m3u8
 
-http://allutv.xyz/zee.php?q=0-9-zeerajasthannews
 #EXTINF:-1,ABP GANGA
 https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in_480p/index.m3u8
 
@@ -308,7 +310,7 @@ https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8
 #EXTINF:-1,News18 Gujarati
 https://news18gujvoot.akamaized.net/i/n18gujarat_1@370955/index_5_av-p.m3u8
 #EXTINF:-1,Zee MP-CG
-http://allutv.xyz/zee.php?q=0-9-zeemadhyapradeshchat
+http://pockettv.xyz/api/zee.m3u8?c=newsmpcg
 #EXTINF:-1, ABP NEWS
 https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in.m3u8
 #EXTINF:-1, Amar Ujala 
@@ -337,8 +339,7 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 #EXTINF:-1, 	NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
-#EXTINF:-1,INDIA TV Z5
-http://allutv.xyz/zee.php?q=0-9-282
+
 #EXTINF:-1, India Tv MX
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
 #EXTINF:-1 , Lok Sabha
@@ -379,7 +380,7 @@ https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 #EXTINF:-1,CNN News 18
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 #EXTINF:-1,Wion News
-http://allutv.xyz/zee.php?q=0-9-wion
+http://pockettv.xyz/api/zee.m3u8?c=wion
 
 #EXTINF:-1,Bloomberg Quint
 
@@ -407,6 +408,7 @@ https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:-1,ZEE MUSIC
 
+http://pockettv.xyz/api/zee.m3u8?c=zeemusic
 
 #EXTINF:-1,SHOWBOX
 https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in_480p/index.m3u8
@@ -426,8 +428,8 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 https://livechannel.shemaroome.com/linearplayout/test-linear-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1,9XM-2
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-
+#EXTINF:-1,Live box
+https://ilove.livebox.co.in/wowinhls/live.m3u8
 
 
 #EXTINF:-1,MTV BEATS HD VOOT
@@ -435,7 +437,7 @@ https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1, B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 #EXTINF:-1,ZING 
-http://allutv.xyz/zee.php?q=0-9-zing
+http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
 #EXTINF:-1, E24
 https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
 #EXTINF:-1,ZOOM
@@ -507,6 +509,8 @@ https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
 
 
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1,&Flix HD 
 http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
@@ -521,8 +525,8 @@ http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
 #EXTINF:-1,STAR MOVIES HD
 http://185.229.191.158:25461/live/DM_Snappyarr/adfsgbhgsvdfv/225655.ts?token=SBNZAhZdQQ1AUVlVVAUDBwJSVwJcUV1UAANRB1QCAFMKCFdQUAVSAFERTUNEEEEHAltsDQBDAldXVwMHUBsXR0BUQzwMUUENQAtYUwZVEU5BQloJAUMCVFNTBgdTBgwHBh0TEwxRQQ0MRg0NG0ZWGhdTQQoFDWcBABRcUQYVD1xGXV1PR1oNaAZWDABZABFYQQcRSEYISxVHWFtHD1sZEFFYRREEQQYVWF0UDVtIEQEMQ10QFhgaX0crexBPFVBKR1RfEAxaDRVYERUSFUgRCxBpQQEXFUoABA9QQEENFwIRHRMOBE08VA1dDwRUEFoNDUURXkZRGklHD1pcCkNaQGxBWAdHDw1CDl8c
 
-
-
+#EXTINF:-1,FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1,FOX MOVIES
 http://flusonic-1.platinum-tv.com/fox_movies/index.m3u8?token=test
 #EXTINF:-1,HBO
